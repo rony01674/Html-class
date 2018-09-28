@@ -1186,7 +1186,7 @@ h6,
 .h6 {
   font-family: inherit;
   font-weight: 500;
-  line-height: 1.1;
+  line-height: 2.2;
   color: inherit;
 }
 h1 small,
@@ -1388,7 +1388,7 @@ a.bg-success:focus {
   background-color: #c1e2b3;
 }
 .bg-info {
-  background-color: #d9edf7;
+  background-color: #481A96;
 }
 a.bg-info:hover,
 a.bg-info:focus {
