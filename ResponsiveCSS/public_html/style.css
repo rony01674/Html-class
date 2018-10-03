@@ -1,0 +1,50 @@
+#maindiv{
+    width: 100%;
+    height: auto;
+}
+.row{
+    width: 100%;
+    height: auto;
+    float: left;
+    text-align: center;
+}
+@media screen and (min-width: 769px){
+    .col-lg{
+        width: 25%;
+        height: auto;
+        float: left;
+        font-size: 50px;
+    }
+}
+@media screen and (max-width: 769px){
+    .col-md{
+        width: 50%;
+        height: auto;
+        float: left;
+        font-size: 35px;
+    }
+}
+@media screen and (max-width: 468px){
+    .col-sm{
+        width: 100%;
+        height: auto;
+        float: left;
+        font-size: 20px;
+    }
+}
+.green{
+    background: green;
+}
+.blue{
+    background: blue;
+}
+.orange{
+    background: orange;
+}
+.red{
+    background: red;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
