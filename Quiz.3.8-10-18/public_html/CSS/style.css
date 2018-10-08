@@ -1,0 +1,42 @@
+.maindiv{
+    width: 100%;
+    height: auto;
+}
+.row{
+    height: auto;
+    width: 100%;
+}
+.col1{  
+    width: 25%;
+    height: auto;
+    float: left;
+
+}
+.col2{
+    width: 75%;
+    height: auto;
+    float: left;
+
+}
+h1{
+    color: red;
+    text-align: center;
+    font-size: 40px;
+}
+table {
+    border-collapse: collapse;
+    width: 600px;
+    height: 150px;  
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+a{
+    color: #31b0d5;
+    text-decoration: none;
+    border: solid 1px #444;
+    font-size: 25px;
+    border-radius: 10px;
+    text-align: center;
+}
