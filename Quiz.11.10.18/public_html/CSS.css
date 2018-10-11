@@ -1,0 +1,62 @@
+
+
+.maindiv{
+    width: 100%;
+    height: auto;
+    
+}
+.row{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    
+}
+.row2{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    min-height: 40px;
+    background-color: darkgrey;
+}
+.leftcol{
+    width: 25%;
+    height: auto;
+    float: left;
+
+}
+.rightcol{
+    width: 75%;
+    height: auto;
+    float: left;
+
+}
+a{
+    text-decoration: none;
+    color: cornflowerblue;
+    font-size: 20px;
+    border: 3px solid chartreuse;
+    border-radius: 5px;
+}
+a.padding{
+    padding: 20px;
+}
+h1{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    padding: 0 0 0 0;
+}
+table, tr, td{
+    border: solid 1px black;
+    width: 700px;
+    height: 50px;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    font-size: 40px;
+    color: chartreuse;
+    text-align: center; 
+}
