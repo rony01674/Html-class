@@ -1,0 +1,51 @@
+/* 
+    Created on : Oct 14, 2018, 4:04:33 PM
+    Author     : User
+*/
+
+.maindiv{
+    width: 60%;
+    height: auto;
+    margin: 0 auto;
+}
+.row{
+    width: 100%;
+    height: auto;
+    min-height: 30px;
+}
+.leftcol{
+    width: 25%;
+    height: auto;
+    float: left;
+}
+.rightcol{
+    width: 75%;
+    height: auto;
+    float: left;
+}
+.bg-blue{
+    background-color: lightblue;
+}
+.bg-grey{
+    background-color: lightgrey;
+}
+h1{
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+}
+table, tr, td{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+    width: 500px;
+    height: 200px;
+}
+th{
+    color: lightgreen;
+    font-size: 50px;
+}
