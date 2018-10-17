@@ -4,7 +4,7 @@
 */
 
 .bg-grey{
-    background-color: #4E5154;
+    background-color: #222222;
 }
 .white{
     color: white;
@@ -118,7 +118,7 @@
 .border{
     border-style: solid;
     border-width: 10px;
-    border-color: #4E5154;
+    border-color: #222222;
 }
 .border2{
     border-style: solid;
