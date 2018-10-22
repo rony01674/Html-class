@@ -4,6 +4,9 @@
 */
 
 .bg-grey{
+    background-color: #ABA7A6;
+}
+.bg-grey2{
     background-color: #222222;
 }
 .white{
@@ -118,7 +121,7 @@
 .border{
     border-style: solid;
     border-width: 10px;
-    border-color: #222222;
+    border-color: #ABA7A6;
 }
 .border2{
     border-style: solid;
